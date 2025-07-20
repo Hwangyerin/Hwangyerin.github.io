@@ -17,7 +17,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale: "en-US"
 rtl: # true, false (default) # turns direction of the page into right to left for RTL languages
-title: "Yerin's Dev Blog"
+title: "YER!N's Devlog"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Yerin"
@@ -31,7 +31,7 @@ masthead_title: # overrides the website title displayed in the masthead, use " "
 breadcrumbs: # true, false (default)
 words_per_minute: 200
 enable_copy_code_button: true #false (default)
-copyright: Yerin Hwang # "copyright" name, defaults to site.title
+copyright: YER!N # "copyright" name, defaults to site.title
 copyright_url: # "copyright" URL, defaults to site.url
 comments:
   provider: # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name: "YER!N"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Hi, I'm **Yerin**"
   location: #""
   email: # lucialu0217@gmail.com
