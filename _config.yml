@@ -135,7 +135,7 @@ author:
       url: "https://github.com/Hwangyerin"
     - label: "Instagram"
       icon: fa-brands fa-instagram
-      url: "https://www.instagram.com/https._hwangyerin"
+      # url: "https://www.instagram.com/https._hwangyerin"
 
 # Site Footer
 footer:
