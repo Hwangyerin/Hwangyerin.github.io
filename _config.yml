@@ -114,13 +114,13 @@ analytics:
 author:
   name: "YER!N"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Hi, I'm Yerin"
+  bio: "Hi, I'm **Yerin**"
   location: #""
   email: lucialu0217@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:lucialu02@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -131,11 +131,11 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      icon: "fa-brands fa-github"
+      url: "https://github.com/Hwangyerin"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/https._hwangyerin"
 
 # Site Footer
 footer:
