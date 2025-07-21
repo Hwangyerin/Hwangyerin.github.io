@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-24T16:05:28+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Site Title</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-07-21T09:53:39+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">YER!N’s Devlog</title><subtitle>Hi, I&apos;m Yerin.</subtitle><author><name>YER!N</name></author><entry><title type="html">[샘플] 목차 고정 테스트</title><link href="http://localhost:4000/github%20blog/fixed-toc/" rel="alternate" type="text/html" title="[샘플] 목차 고정 테스트" /><published>2025-07-21T00:00:00+09:00</published><updated>2025-07-21T00:00:00+09:00</updated><id>http://localhost:4000/github%20blog/fixed-toc</id><content type="html" xml:base="http://localhost:4000/github%20blog/fixed-toc/"><![CDATA[<h1 id="toc-고정-샘플">TOC 고정 샘플</h1>
+
+<p>이 글은 목차 고정(toc_sticky)을 테스트하기 위한 샘플입니다. 아래는 테스트용 소제목입니다.</p>
+
+<h2 id="1-jekyll이란">1. Jekyll이란?</h2>
+
+<p>Jekyll은 정적 웹사이트 생성기입니다.</p>
+
+<h2 id="2-minimal-mistakes-테마">2. Minimal Mistakes 테마</h2>
+
+<p>이 테마는 매우 커스터마이징이 쉽고, 블로그나 포트폴리오에 적합합니다.</p>
+
+<h2 id="3-toc-작동-조건">3. TOC 작동 조건</h2>
+
+<p>목차가 보이기 위해서는 <code class="language-plaintext highlighter-rouge">toc: true</code>가 필요하고, 고정되게 하려면 <code class="language-plaintext highlighter-rouge">toc_sticky: true</code>가 있어야 합니다.</p>
+
+<h2 id="4-css가-필요할-수도-있음">4. CSS가 필요할 수도 있음</h2>
+
+<p>기본 테마에서 <code class="language-plaintext highlighter-rouge">.sticky</code> 클래스를 사용하려면 CSS가 정의되어 있어야 합니다.</p>
+
+<h2 id="5-결론">5. 결론</h2>
+
+<p>메타데이터만으로는 고정이 안 될 수도 있으므로 CSS도 확인이 필요합니다.</p>]]></content><author><name>YER!N</name></author><category term="Github Blog" /><category term="toc" /><category term="jekyll" /><category term="minimal-mistakes" /><summary type="html"><![CDATA[Minimal Mistakes 테마에서 toc_sticky 작동 여부 확인용 게시물입니다.]]></summary></entry></feed>
