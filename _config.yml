@@ -315,3 +315,11 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:                 
+        nav: "sidebar-category"
+
+# Category
+category_archive:
+  type: liquid
+  path: /categories/
+

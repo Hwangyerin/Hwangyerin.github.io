@@ -1,5 +1,5 @@
 ---
-title: "[샘플] 목차 고정 테스트"
+title: "Github 목차 고정 테스트"
 excerpt: "Minimal Mistakes 테마에서 toc_sticky 작동 여부 확인용 게시물입니다."
 categories:
   - Github Blog

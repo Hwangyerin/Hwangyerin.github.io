@@ -1,5 +1,9 @@
 # main links
 main:
+  - title: "Home"
+    url: /
+  - title: "카테고리"
+    url: /categories/
   # - title: "Quick-Start Guide"
   # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Github"
@@ -10,3 +14,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar-category:
+  - title: "Home"
+    url: /
+  - title: "카테고리"
+    url: /categories/
+    children:
+      - title: "github"
+        url: "/github-blog/"
